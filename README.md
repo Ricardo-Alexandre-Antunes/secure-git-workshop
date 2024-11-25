@@ -40,7 +40,7 @@ https://sonarcloud.io/project/configuration?id=git-secure-workshop
 
 ### 5. Check the analysis results
 ```
-https://sonarcloud.io/summary/new_code?id=git-secure-workshop&branch=step4
+https://sonarcloud.io/summary/new_code?id=ua-ricardo_projeto-teste&branch=step4
 ```
 
 ### Your done 👍 move to step 5
